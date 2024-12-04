@@ -66,7 +66,11 @@ sections:
     type: DividerSection
 seo:
   metaTitle: Meet suthar
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Meet Suthar skilled software developer with expertise in Node.js, React.js,
+    Vue.js, JavaScript, TypeScript, MySQL, MongoDB, SCSS/SASS, Tailwind,
+    Bootstrap, and Git. Explore a portfolio of innovative, scalable, and
+    user-friendly web development projects.
   socialImage: /images/main-hero.jpg
   type: Seo
   metaTags:
