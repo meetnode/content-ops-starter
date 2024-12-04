@@ -1,0 +1,59 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Information",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Info"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "I'm Meet Suthar",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "Software Developer",
+                "text": "An exceptionally talented and driven software developer with a solid grasp of contemporary web development tools and technologies. competent in both front-end and back-end development, having a track record of building apps that are effective, scalable, and easy to use. excels at providing dependable solutions and does best in cooperative, flexible team environments.\n\n*   **Frontend Development**: React.js, Vue.js, JavaScript, TypeScript, SCSS/SASS, Tailwind CSS, Bootstrap\n\n*   **Backend Development**: Node.js\n\n*   **App Development**: React Native\n\n*   **Database Management**: MySQL, MongoDB\n\n*   **Version Control**: Git\n\n",
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": null,
+                    "altText": "Unblock your team boost your time to production preview",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "borderWidth": 1
+                        }
+                    }
+                },
+                "badge": null,
+                "elementId": "",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row",
+                        "padding": [
+                            "pt-16",
+                            "pl-16",
+                            "pb-16",
+                            "pr-16"
+                        ]
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-information-cea0.png"
+        }
+    ]
+}
