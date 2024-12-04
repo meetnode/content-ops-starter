@@ -42,7 +42,7 @@ sections:
           borderWidth: 1
       url: /images/abstract-feature1.svg
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
