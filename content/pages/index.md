@@ -35,7 +35,7 @@ sections:
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
-      elementId: ''
+      elementId: bannerImage
       type: ImageBlock
       styles:
         self:
