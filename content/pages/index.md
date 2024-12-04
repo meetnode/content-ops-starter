@@ -8,10 +8,30 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      An exceptionally talented and driven software developer with a solid grasp
+      of contemporary web development tools and technologies. competent in both
+      front-end and back-end development, having a track record of building apps
+      that are effective, scalable, and easy to use. excels at providing
+      dependable solutions and does best in cooperative, flexible team
+      environments.
+
+
+      **Key Skills**:
+
+
+      *   **Frontend Development**: React.js, Vue.js, JavaScript, TypeScript,
+      SCSS/SASS, Tailwind CSS, Bootstrap
+
+
+      *   **Backend Development**: Node.js
+
+
+      *   **Database Management**: MySQL, MongoDB
+
+
+      *   **Version Control**: Git
+
     actions:
       - label: Get started
         altText: ''
