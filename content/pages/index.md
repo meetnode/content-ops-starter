@@ -7,7 +7,7 @@ sections:
       text: I'm Meet Suthar
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Software Developer
     text: >+
       An exceptionally talented and driven software developer with a solid grasp
       of contemporary web development tools and technologies. competent in both
