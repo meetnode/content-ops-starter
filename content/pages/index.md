@@ -17,14 +17,14 @@ sections:
       environments.
 
 
-      **Key Skills**:
-
-
       *   **Frontend Development**: React.js, Vue.js, JavaScript, TypeScript,
       SCSS/SASS, Tailwind CSS, Bootstrap
 
 
       *   **Backend Development**: Node.js
+
+
+      *   **App Development**: React Native
 
 
       *   **Database Management**: MySQL, MongoDB
