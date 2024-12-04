@@ -8,13 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Software Developer
-    text: >+
-      An exceptionally talented and driven software developer with a solid grasp
-      of contemporary web development tools and technologies. competent in both
-      front-end and back-end development, having a track record of building apps
-      that are effective, scalable, and easy to use. excels at providing
-      dependable solutions and does best in cooperative, flexible team
-      environments.
+    text: >
+      ###### An exceptionally talented and driven software developer with a
+      solid grasp of contemporary web development tools and technologies.
+      competent in both front-end and back-end development, having a track
+      record of building apps that are effective, scalable, and easy to use.
+      excels at providing dependable solutions and does best in cooperative,
+      flexible team environments.
 
 
       *   **Frontend Development**: React.js, Vue.js, JavaScript, TypeScript,
@@ -31,7 +31,6 @@ sections:
 
 
       *   **Version Control**: Git
-
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
