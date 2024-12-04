@@ -77,6 +77,6 @@ seo:
     - type: MetaTag
       property: 'og:site_name'
       content: meetsuthar
-  addTitleSuffix: true
+  addTitleSuffix: false
 type: PageLayout
 ---
